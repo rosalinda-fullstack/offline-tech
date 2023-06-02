@@ -26,6 +26,9 @@
         "heading",
         "button"
       ],
+      "custom_css": [
+        ".banner__buttons {background-color: #FF5430; padding: 10px;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/GettyImages-1177482693.webp",
         "image_overlay_opacity": 40,
