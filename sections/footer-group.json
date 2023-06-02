@@ -20,6 +20,13 @@
             "menu": "footer"
           }
         },
+        "7d02ec6f-ab60-49c6-9e9d-9735ea3f8c1c": {
+          "type": "link_list",
+          "settings": {
+            "heading": "",
+            "menu": "footer"
+          }
+        },
         "c3f87a1f-4269-47a3-8ad8-1608df91a736": {
           "type": "link_list",
           "settings": {
@@ -31,6 +38,7 @@
       "block_order": [
         "8043a64f-6617-4a1c-83ec-6199015b932b",
         "e430bfca-1a17-4bac-ab17-a59dff09d9eb",
+        "7d02ec6f-ab60-49c6-9e9d-9735ea3f8c1c",
         "c3f87a1f-4269-47a3-8ad8-1608df91a736"
       ],
       "settings": {
